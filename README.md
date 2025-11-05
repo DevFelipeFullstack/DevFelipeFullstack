@@ -121,6 +121,15 @@ Sou apaixonado por tecnologia, resolução de problemas e criação de soluçõe
 
 ---
 
+## 🌟 Featured Projects / Projetos em Destaque
+
+### 🧩 Personal Projects / Projetos Pessoais
+| Projeto | Descrição |
+|----------|------------|
+| 🗺️ [Atlas_CMS](https://github.com/DevFelipeFullstack/AtlasCMS) | CMS desenvolvido em PHP para gerenciamento dinâmico de conteúdo, com sistema de login, painel administrativo e editor de páginas. |
+
+---
+
 ### 📊 Estatísticas
 
 <p>
