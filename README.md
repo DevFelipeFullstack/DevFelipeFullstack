@@ -105,6 +105,22 @@ Sou apaixonado por tecnologia, resolução de problemas e criação de soluçõe
 <br/>
 <br/>
 
+---
+
+## 🧩 Key Skills / Habilidades Principais
+
+🐘 Backend Development with PHP & Laravel  
+⚙️ RESTful API Integration and Data Handling  
+🧱 MVC Architecture & Database Management (MySQL)  
+🧼 Clean Code Practices & SOLID Principles  
+🎨 Frontend Basics with HTML, CSS & Bootstrap  
+🔄 Git & GitHub Version Control  
+🤝 Collaboration and Continuous Learning  
+
+> 💭 *“Technology isn’t just about code — it’s about solving problems, connecting people, and creating impact.”*
+
+---
+
 ### 📊 Estatísticas
 
 <p>
