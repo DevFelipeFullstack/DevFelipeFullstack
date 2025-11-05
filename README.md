@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Felipe%20Alvarenga%20👨‍💻&fontAlign=50&fontAlignY=35&color=0:007CF0,100:00DF88&fontColor=ffffff&fontSize=40&desc=Full%20Stack%20Developer%20|%20HTML%20•%20CSS%20•%20JavaScript%20•%20jQuery%20•%20PHP%20•%20Laravel&descAlignY=55&descAlign=50&animation=fadeIn"/>
 
-
+<a id="top"></a>
 **`Desenvolvedor FullStack`**
 
 👨‍💻 Sobre mim
@@ -153,3 +153,15 @@ Sou apaixonado por tecnologia, resolução de problemas e criação de soluçõe
 
 <br/>
 <br/>
+
+---
+
+
+<p align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/⬆️%20Voltar_ao_topo-00DF88?style=for-the-badge&logo=github&logoColor=white" alt="Voltar ao topo"/>
+  </a>
+</p>
+
+<!-- FOOTER -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00DF88,100:007CF0&height=120&section=footer"/>
