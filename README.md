@@ -1,6 +1,7 @@
+<a id="top"></a>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Felipe%20Alvarenga%20👨‍💻&fontAlign=50&fontAlignY=35&color=0:007CF0,100:00DF88&fontColor=ffffff&fontSize=40&desc=Full%20Stack%20Developer%20|%20HTML%20•%20CSS%20•%20JavaScript%20•%20jQuery%20•%20PHP%20•%20Laravel&descAlignY=55&descAlign=50&animation=fadeIn"/>
 
-<a id="top"></a>
+
 **`Desenvolvedor FullStack`**
 
 👨‍💻 Sobre mim
