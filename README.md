@@ -133,36 +133,20 @@ Sou apaixonado por tecnologia, resolução de problemas e criação de soluçõe
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=DevFelipeFullstack&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFelipeFullstack&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevFelipeFullstack&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevFelipeFullstack&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 <br/>
 <br/>
 
 ---
 
-
 <p align="center">
   <a href="#top">
     <img src="https://img.shields.io/badge/⬆️%20Voltar_ao_topo-00DF88?style=for-the-badge&logo=github&logoColor=white" alt="Voltar ao topo"/>
   </a>
 </p>
-
 <!-- FOOTER -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00DF88,100:007CF0&height=120&section=footer"/>
