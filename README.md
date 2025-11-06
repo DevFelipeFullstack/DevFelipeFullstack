@@ -10,25 +10,8 @@ Atualmente, estou focado no desenvolvimento **Back-end**, estudando **PHP** e **
 
 Sou apaixonado por tecnologia, resolução de problemas e criação de soluções que realmente façam diferença no dia a dia das pessoas.
 
-<div style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
-  
-  <a href="https://github.com/DevFelipeFullstack?tab=repositories&sort=stargazers">
-    <img 
-      alt="Total de estrelas" 
-      title="Total de estrelas GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/stars/DevFelipeFullstack?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-    />
-  </a>
+<p align="left"><a href="https://github.com/DevFelipeFullstack?tab=repositories&sort=stargazers"><img alt="Total de estrelas" title="Total de estrelas GitHub" height="55" src="https://custom-icon-badges.demolab.com/github/stars/DevFelipeFullstack?color=55960c&style=flat-round&labelColor=488207&logo=star&label=Estrelas"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/DevFelipeFullstack?tab=followers"><img alt="Seguidores" title="Me siga no GitHub" height="55" src="https://custom-icon-badges.demolab.com/github/followers/DevFelipeFullstack?color=236ad3&labelColor=1155ba&style=flat-round&logo=github&label=Seguidores&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Visualizações de perfil" title="Total de visitantes no perfil" height="55" src="https://komarev.com/ghpvc/?username=DevFelipeFullstack&label=👁️%20Visitantes&color=ff79c6&style=flat-round"/></p>
 
-  <a href="https://github.com/DevFelipeFullstack?tab=followers">
-    <img 
-      alt="Seguidores" 
-      title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/DevFelipeFullstack?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
-  </a>
-
-</div>
 
 ---
 
