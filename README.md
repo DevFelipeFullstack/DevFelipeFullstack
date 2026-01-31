@@ -76,15 +76,15 @@ Sou apaixonado por tecnologia, resolução de problemas e criação de soluçõe
 
 ## 🧩 Key Skills / Habilidades Principais
 
-🐘 Backend Development with PHP & Laravel  
-⚙️ RESTful API Integration and Data Handling  
-🧱 MVC Architecture & Database Management (MySQL)  
-🧼 Clean Code Practices & SOLID Principles  
-🎨 Frontend Basics with HTML, CSS & Bootstrap  
-🔄 Git & GitHub Version Control  
-🤝 Collaboration and Continuous Learning  
+🚀 Desenvolvimento Backend com C# e .NET
+⚙️ Criação de APIs REST com ASP.NET Core
+🧱 POO, Arquitetura MVC e Integração com Banco de Dados (SQL Server / MySQL)
+🧼 Boas Práticas, Clean Code e Princípios SOLID
+🔐 Encapsulamento, Validações e Regras de Negócio
+🔄 Controle de Versão com Git e GitHub
+🤝 Colaboração, Resolução de Problemas e Aprendizado Contínuo
 
-> 💭 *“Technology isn’t just about code — it’s about solving problems, connecting people, and creating impact.”*
+> 💭 *“Tecnologia não é só sobre código — é sobre resolver problemas reais, conectar pessoas e gerar impacto.”*
 
 ---
 
@@ -99,9 +99,17 @@ Sou apaixonado por tecnologia, resolução de problemas e criação de soluçõe
 
 ### 📊 Estatísticas
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevFelipeFullstack&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevFelipeFullstack&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=DevFelipeFullstack&show_icons=true&include_all_commits=true&theme=dracula&locale=pt-br"
+    height="150"
+    alt="GitHub stats de DevFelipeFullstack"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=DevFelipeFullstack&layout=compact&langs_count=5&theme=dracula&locale=pt-br"
+    height="150"
+    alt="Linguagens mais usadas no GitHub"
+  />
 </div>
 
 <br/>
