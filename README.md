@@ -11,7 +11,7 @@ Atualmente, estou focado no desenvolvimento Back-end, com ênfase em C# e .NET, 
 
 Sou motivado por tecnologia, resolução de problemas e pela criação de soluções que gerem impacto real no dia a dia das pessoas.
 
-<p align="left"><a href="https://github.com/DevFelipeFullstack?tab=repositories&sort=stargazers"><img alt="Total de estrelas" title="Total de estrelas GitHub" height="55" src="https://custom-icon-badges.demolab.com/github/stars/DevFelipeFullstack?color=55960c&style=flat-round&labelColor=488207&logo=star&label=Estrelas"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/DevFelipeFullstack?tab=followers"><img alt="Seguidores" title="Me siga no GitHub" height="55" src="https://custom-icon-badges.demolab.com/github/followers/DevFelipeFullstack?color=236ad3&labelColor=1155ba&style=flat-round&logo=github&label=Seguidores&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp></p>
+<p align="left"><a href="https://github.com/DevFelipeFullstack?tab=repositories&sort=stargazers"><img alt="Total de estrelas" title="Total de estrelas GitHub" height="55" src="https://custom-icon-badges.demolab.com/github/stars/DevFelipeFullstack?color=55960c&style=flat-round&labelColor=488207&logo=star&label=Estrelas"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/DevFelipeFullstack?tab=followers"><img alt="Seguidores" title="Me siga no GitHub" height="55" src="https://custom-icon-badges.demolab.com/github/followers/DevFelipeFullstack?color=236ad3&labelColor=1155ba&style=flat-round&logo=github&label=Seguidores&logoColor=white"/></a></p>
 
 
 ---
@@ -95,7 +95,7 @@ Sou motivado por tecnologia, resolução de problemas e pela criação de soluç
 ### 🧩 Personal Projects / Projetos Pessoais
 | Projeto | Descrição |
 |----------|------------|
-| 🗺️ [Conta Bancária – POO em C#](https://github.com/DevFelipeFullstack/csharp-do-zero-ao-avancado/tree/main/Course/Construtores%2C%20palavra_this%2C%20sobrecarga%2C%20encapsulamento) | Projeto para praticar Programação Orientada a Objetos em C#, aplicando encapsulamento, construtores, propriedades e regras de negócio. |
+| 🗺️ [Conta Bancária](https://github.com/DevFelipeFullstack/csharp-do-zero-ao-avancado/tree/main/Course/Construtores%2C%20palavra_this%2C%20sobrecarga%2C%20encapsulamento) | Projeto para praticar Programação Orientada a Objetos em C#, aplicando encapsulamento, construtores, propriedades e regras de negócio. |
 
 ---
 
