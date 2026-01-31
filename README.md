@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Felipe%20Alvarenga%20👨‍💻&fontAlign=50&fontAlignY=35&color=0:007CF0,100:00DF88&fontColor=ffffff&fontSize=40&desc=Full%20Stack%20Developer%20|%20HTML%20•%20CSS%20•%20JavaScript%20•%20jQuery%20•%20PHP%20•%20Laravel&descAlignY=55&descAlign=50&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Felipe%20Alvarenga%20👨‍💻&fontAlign=50&fontAlignY=35&color=0:007CF0,100:00DF88&fontColor=ffffff&fontSize=40&desc=Full%20Stack%20Developer%20|%20HTML%20•%20CSS%20•%20JavaScript%20•%20Bootstrap%20•%20C#%20•%20.Net&descAlignY=55&descAlign=50&animation=fadeIn"/>
 
 
 **`Desenvolvedor FullStack`**
@@ -94,7 +94,7 @@ Sou motivado por tecnologia, resolução de problemas e pela criação de soluç
 ### 🧩 Personal Projects / Projetos Pessoais
 | Projeto | Descrição |
 |----------|------------|
-| 🗺️ [Atlas_CMS](https://github.com/DevFelipeFullstack/AtlasCMS) | CMS desenvolvido em PHP para gerenciamento dinâmico de conteúdo, com sistema de login, painel administrativo e editor de páginas. |
+| 🗺️ [Conta Bancária – POO em C#]([https://github.com/DevFelipeFullstack/AtlasCMS](https://github.com/DevFelipeFullstack/csharp-do-zero-ao-avancado/tree/main/Course/Construtores%2C%20palavra_this%2C%20sobrecarga%2C%20encapsulamento)) | Projeto simples em C# para praticar conceitos de Programação Orientada a Objetos. |
 
 ---
 
