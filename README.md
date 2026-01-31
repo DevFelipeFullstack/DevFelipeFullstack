@@ -5,12 +5,12 @@
 
 👨‍💻 Sobre mim
 
-Me chamo **Felipe Alvarenga**, tenho 32 anos e sou do Rio de Janeiro. Sou formado em **Sistemas de Informação** pela Estácio de Sá.  
-Atualmente, estou focado no desenvolvimento **Back-end**, estudando **PHP** e **C#**, além de trabalhar no aprimoramento da minha lógica de programação e boas práticas de código.
+Me chamo Felipe Alvarenga, sou do Rio de Janeiro e formado em Sistemas de Informação pela Estácio de Sá.
+Atualmente, estou focado no desenvolvimento Back-end, com ênfase em C# e .NET, buscando evoluir continuamente em lógica de programação, boas práticas e organização de código.
 
-Sou apaixonado por tecnologia, resolução de problemas e criação de soluções que realmente façam diferença no dia a dia das pessoas.
+Sou motivado por tecnologia, resolução de problemas e pela criação de soluções que gerem impacto real no dia a dia das pessoas.
 
-<p align="left"><a href="https://github.com/DevFelipeFullstack?tab=repositories&sort=stargazers"><img alt="Total de estrelas" title="Total de estrelas GitHub" height="55" src="https://custom-icon-badges.demolab.com/github/stars/DevFelipeFullstack?color=55960c&style=flat-round&labelColor=488207&logo=star&label=Estrelas"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/DevFelipeFullstack?tab=followers"><img alt="Seguidores" title="Me siga no GitHub" height="55" src="https://custom-icon-badges.demolab.com/github/followers/DevFelipeFullstack?color=236ad3&labelColor=1155ba&style=flat-round&logo=github&label=Seguidores&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Visualizações de perfil" title="Total de visitantes no perfil" height="55" src="https://komarev.com/ghpvc/?username=DevFelipeFullstack&label=👁️%20Visitantes&color=ff79c6&style=flat-round"/></p>
+<p align="left"><a href="https://github.com/DevFelipeFullstack?tab=repositories&sort=stargazers"><img alt="Total de estrelas" title="Total de estrelas GitHub" height="55" src="https://custom-icon-badges.demolab.com/github/stars/DevFelipeFullstack?color=55960c&style=flat-round&labelColor=488207&logo=star&label=Estrelas"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/DevFelipeFullstack?tab=followers"><img alt="Seguidores" title="Me siga no GitHub" height="55" src="https://custom-icon-badges.demolab.com/github/followers/DevFelipeFullstack?color=236ad3&labelColor=1155ba&style=flat-round&logo=github&label=Seguidores&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp></p>
 
 
 ---
@@ -21,24 +21,24 @@ Sou apaixonado por tecnologia, resolução de problemas e criação de soluçõe
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="40px" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="40px" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="40px" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
@@ -46,8 +46,8 @@ Sou apaixonado por tecnologia, resolução de problemas e criação de soluçõe
     align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="40px" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 
@@ -55,8 +55,8 @@ Sou apaixonado por tecnologia, resolução de problemas e criação de soluçõe
     align="left" 
     alt="C#"
     title="C#" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="40px" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
 
@@ -64,8 +64,8 @@ Sou apaixonado por tecnologia, resolução de problemas e criação de soluçõe
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="40px" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
@@ -76,15 +76,16 @@ Sou apaixonado por tecnologia, resolução de problemas e criação de soluçõe
 
 ## 🧩 Key Skills / Habilidades Principais
 
-🚀 Desenvolvimento Backend com C# e .NET
-⚙️ Criação de APIs REST com ASP.NET Core
-🧱 POO, Arquitetura MVC e Integração com Banco de Dados (SQL Server / MySQL)
-🧼 Boas Práticas, Clean Code e Princípios SOLID
-🔐 Encapsulamento, Validações e Regras de Negócio
-🔄 Controle de Versão com Git e GitHub
-🤝 Colaboração, Resolução de Problemas e Aprendizado Contínuo
+- 🚀 **Desenvolvimento Backend com C# e .NET**
+- ⚙️ **Criação de APIs REST com ASP.NET Core**
+- 🧱 **POO, Arquitetura MVC e Integração com Banco de Dados (SQL Server / MySQL)**
+- 🧼 **Boas Práticas, Clean Code e Princípios SOLID**
+- 🔐 **Encapsulamento, Validações e Regras de Negócio**
+- 🔄 **Controle de Versão com Git e GitHub**
+- 🤝 **Colaboração, Resolução de Problemas e Aprendizado Contínuo**
 
 > 💭 *“Tecnologia não é só sobre código — é sobre resolver problemas reais, conectar pessoas e gerar impacto.”*
+
 
 ---
 
@@ -94,26 +95,6 @@ Sou apaixonado por tecnologia, resolução de problemas e criação de soluçõe
 | Projeto | Descrição |
 |----------|------------|
 | 🗺️ [Atlas_CMS](https://github.com/DevFelipeFullstack/AtlasCMS) | CMS desenvolvido em PHP para gerenciamento dinâmico de conteúdo, com sistema de login, painel administrativo e editor de páginas. |
-
----
-
-### 📊 Estatísticas
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=DevFelipeFullstack&show_icons=true&include_all_commits=true&theme=dracula&locale=pt-br"
-    height="150"
-    alt="GitHub stats de DevFelipeFullstack"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=DevFelipeFullstack&layout=compact&langs_count=5&theme=dracula&locale=pt-br"
-    height="150"
-    alt="Linguagens mais usadas no GitHub"
-  />
-</div>
-
-<br/>
-<br/>
 
 ---
 
