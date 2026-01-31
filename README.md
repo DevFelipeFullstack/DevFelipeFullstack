@@ -95,7 +95,7 @@ Sou motivado por tecnologia, resolução de problemas e pela criação de soluç
 ### 🧩 Personal Projects / Projetos Pessoais
 | Projeto | Descrição |
 |----------|------------|
-| 🗺️ [Conta Bancária – POO em C#]([https://github.com/DevFelipeFullstack/AtlasCMS](https://github.com/DevFelipeFullstack/csharp-do-zero-ao-avancado/tree/main/Course/Construtores%2C%20palavra_this%2C%20sobrecarga%2C%20encapsulamento)) | Projeto simples em C# para praticar conceitos de Programação Orientada a Objetos. |
+| 🗺️ [Conta Bancária – POO em C#](https://github.com/DevFelipeFullstack/csharp-do-zero-ao-avancado/tree/main/Course/Construtores%2C%20palavra_this%2C%20sobrecarga%2C%20encapsulamento) | Projeto simples em C# para praticar conceitos de Programação Orientada a Objetos. |
 
 ---
 
