@@ -99,5 +99,11 @@ Sou motivado por tecnologia, resolução de problemas e pela criação de soluç
 
 ---
 
+<p align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/⬆️%20Voltar_ao_topo-00DF88?style=for-the-badge&logo=github&logoColor=white" alt="Voltar ao topo"/>
+  </a>
+</p>
+
 <!-- FOOTER -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00DF88,100:007CF0&height=120&section=footer"/>
